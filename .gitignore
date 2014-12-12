@@ -1,5 +1,7 @@
 **/nbproject/
 **/build.xml
-**/dist/**
+**/dist/*.jnlp
+**/dist/*.html
+**/dist/web-files/**
 **/build/**
 manifest.mf
