@@ -29,7 +29,6 @@ public class NotTerm extends Term {
 
     public NotTerm(Term val) {
         this.val = val;
-        this.s = "~(" + val.getString() + ")";
     }
 
     @Override
